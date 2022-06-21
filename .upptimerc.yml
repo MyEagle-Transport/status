@@ -12,6 +12,8 @@ sites:
     url: https://client.api.transport.miaguila.com/
   - name: Driver Api
     url: https://driver.api.transport.miaguila.com/
+  - name: Fuecs api
+    url: https://fuecs.api.transport.miaguila.com/
 
 status-website:
   cname: status.transport.miaguila.com
