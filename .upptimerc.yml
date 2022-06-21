@@ -13,7 +13,7 @@ sites:
   - name: Driver Api
     url: https://driver.api.transport.miaguila.com/
   - name: Fuecs api
-    url: https://fuecs.api.transport.miaguila.com/
+    url: https://fuecs.api.transport.miaguila.com/api/v1/pdf
 
 status-website:
   cname: status.transport.miaguila.com
