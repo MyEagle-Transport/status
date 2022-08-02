@@ -94,19 +94,19 @@
     "url": "https://fuecs.api.transport.miaguila.com/api/v1/pdf",
     "icon": "https://favicons.githubusercontent.com/fuecs.api.transport.miaguila.com",
     "slug": "fuecs-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 514,
-    "timeWeek": 509,
-    "timeMonth": 352,
-    "timeYear": 340,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 335,
+    "timeDay": 376,
+    "timeWeek": 463,
+    "timeMonth": 344,
+    "timeYear": 335,
     "dailyMinutesDown": {
-      "2022-08-02": 0
+      "2022-08-02": 12
     }
   }
 ]
