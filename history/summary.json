@@ -40,9 +40,9 @@
     "url": "https://admin.api.transport.miaguila.com/",
     "icon": "https://favicons.githubusercontent.com/admin.api.transport.miaguila.com",
     "slug": "admin-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +51,18 @@
     "timeWeek": 195,
     "timeMonth": 216,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-03": 0
+    }
   },
   {
     "name": "Client Api",
     "url": "https://client.api.transport.miaguila.com/",
     "icon": "https://favicons.githubusercontent.com/client.api.transport.miaguila.com",
     "slug": "client-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +71,18 @@
     "timeWeek": 173,
     "timeMonth": 200,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-03": 0
+    }
   },
   {
     "name": "Driver Api",
     "url": "https://driver.api.transport.miaguila.com/",
     "icon": "https://favicons.githubusercontent.com/driver.api.transport.miaguila.com",
     "slug": "driver-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,24 +91,28 @@
     "timeWeek": 192,
     "timeMonth": 200,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-03": 0
+    }
   },
   {
     "name": "Fuecs api",
     "url": "https://fuecs.api.transport.miaguila.com/api/v1/pdf",
     "icon": "https://favicons.githubusercontent.com/fuecs.api.transport.miaguila.com",
     "slug": "fuecs-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 384,
+    "timeDay": 582,
     "timeWeek": 517,
     "timeMonth": 362,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-03": 0
+    }
   }
 ]
