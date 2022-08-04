@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 285,
-    "timeWeek": 273,
-    "timeMonth": 295,
-    "timeYear": 311,
+    "time": 314,
+    "timeDay": 433,
+    "timeWeek": 302,
+    "timeMonth": 305,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 257,
-    "timeWeek": 268,
-    "timeMonth": 292,
-    "timeYear": 318,
+    "time": 322,
+    "timeDay": 499,
+    "timeWeek": 305,
+    "timeMonth": 302,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/admin.api.transport.miaguila.com",
     "slug": "admin-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 218,
-    "timeDay": 234,
-    "timeWeek": 187,
-    "timeMonth": 213,
-    "timeYear": 218,
-    "dailyMinutesDown": {
-      "2022-08-03": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 221,
+    "timeDay": 226,
+    "timeWeek": 205,
+    "timeMonth": 218,
+    "timeYear": 221,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Client Api",
@@ -61,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/client.api.transport.miaguila.com",
     "slug": "client-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 211,
-    "timeDay": 237,
-    "timeWeek": 172,
-    "timeMonth": 199,
-    "timeYear": 211,
-    "dailyMinutesDown": {
-      "2022-08-03": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 214,
+    "timeDay": 268,
+    "timeWeek": 199,
+    "timeMonth": 207,
+    "timeYear": 214,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Driver Api",
@@ -81,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/driver.api.transport.miaguila.com",
     "slug": "driver-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 202,
-    "timeDay": 193,
-    "timeWeek": 179,
-    "timeMonth": 196,
-    "timeYear": 202,
-    "dailyMinutesDown": {
-      "2022-08-03": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 204,
+    "timeDay": 194,
+    "timeWeek": 197,
+    "timeMonth": 201,
+    "timeYear": 204,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fuecs api",
@@ -101,18 +95,16 @@
     "icon": "https://favicons.githubusercontent.com/fuecs.api.transport.miaguila.com",
     "slug": "fuecs-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 341,
-    "timeDay": 433,
-    "timeWeek": 482,
-    "timeMonth": 355,
-    "timeYear": 341,
-    "dailyMinutesDown": {
-      "2022-08-03": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 339,
+    "timeDay": 192,
+    "timeWeek": 460,
+    "timeMonth": 358,
+    "timeYear": 339,
+    "dailyMinutesDown": {}
   }
 ]
