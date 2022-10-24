@@ -76,18 +76,20 @@
     "url": "https://driver.api.transport.miaguila.com/",
     "icon": "https://icons.duckduckgo.com/ip3/driver.api.transport.miaguila.com.ico",
     "slug": "driver-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 296,
-    "timeWeek": 185,
-    "timeMonth": 223,
-    "timeYear": 204,
-    "dailyMinutesDown": {}
+    "time": 203,
+    "timeDay": 167,
+    "timeWeek": 167,
+    "timeMonth": 217,
+    "timeYear": 203,
+    "dailyMinutesDown": {
+      "2022-10-24": 0
+    }
   },
   {
     "name": "Fuecs api",
