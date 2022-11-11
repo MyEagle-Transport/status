@@ -40,9 +40,9 @@
     "url": "https://admin.api.transport.miaguila.com/",
     "icon": "https://icons.duckduckgo.com/ip3/admin.api.transport.miaguila.com.ico",
     "slug": "admin-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +51,18 @@
     "timeWeek": 469,
     "timeMonth": 255,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-11": 0
+    }
   },
   {
     "name": "Client Api",
     "url": "https://client.api.transport.miaguila.com/",
     "icon": "https://icons.duckduckgo.com/ip3/client.api.transport.miaguila.com.ico",
     "slug": "client-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 324,
     "timeMonth": 218,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-11": 0
+    }
   },
   {
     "name": "Driver Api",
@@ -77,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/driver.api.transport.miaguila.com.ico",
     "slug": "driver-api",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 204,
     "timeDay": 322,
     "timeWeek": 245,
     "timeMonth": 212,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2022-11-11": 0,
+      "2022-11-11": 12,
       "2022-10-24": 25
     }
   },
