@@ -58,19 +58,19 @@
     "url": "https://client.api.transport.miaguila.com/",
     "icon": "https://icons.duckduckgo.com/ip3/client.api.transport.miaguila.com.ico",
     "slug": "client-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 312,
-    "timeWeek": 229,
-    "timeMonth": 234,
-    "timeYear": 209,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.11%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.97%",
+    "time": 210,
+    "timeDay": 300,
+    "timeWeek": 234,
+    "timeMonth": 235,
+    "timeYear": 210,
     "dailyMinutesDown": {
-      "2022-11-30": 0
+      "2022-11-30": 70
     }
   },
   {
