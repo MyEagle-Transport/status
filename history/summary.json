@@ -58,18 +58,20 @@
     "url": "https://client.api.transport.miaguila.com/",
     "icon": "https://icons.duckduckgo.com/ip3/client.api.transport.miaguila.com.ico",
     "slug": "client-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 283,
-    "timeWeek": 213,
-    "timeMonth": 231,
+    "timeDay": 312,
+    "timeWeek": 229,
+    "timeMonth": 234,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-30": 0
+    }
   },
   {
     "name": "Driver Api",
