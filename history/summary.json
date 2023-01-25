@@ -79,19 +79,19 @@
     "url": "https://driver.api.transport.miaguila.com/",
     "icon": "https://icons.duckduckgo.com/ip3/driver.api.transport.miaguila.com.ico",
     "slug": "driver-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 201,
-    "timeDay": 218,
-    "timeWeek": 197,
-    "timeMonth": 186,
+    "timeDay": 198,
+    "timeWeek": 191,
+    "timeMonth": 184,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2023-01-25": 20,
+      "2023-01-25": 27,
       "2022-11-11": 25,
       "2022-10-24": 25
     }
@@ -103,9 +103,9 @@
     "slug": "fuecs-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 274,
     "timeDay": 197,
@@ -113,7 +113,7 @@
     "timeMonth": 180,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2023-01-25": 18
+      "2023-01-25": 26
     }
   }
 ]
