@@ -42,18 +42,16 @@
     "slug": "admin-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 235,
     "timeWeek": 210,
     "timeMonth": 203,
     "timeYear": 231,
-    "dailyMinutesDown": {
-      "2023-01-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Client Api",
@@ -81,10 +79,10 @@
     "url": "https://driver.api.transport.miaguila.com/",
     "icon": "https://icons.duckduckgo.com/ip3/driver.api.transport.miaguila.com.ico",
     "slug": "driver-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 201,
@@ -93,7 +91,7 @@
     "timeMonth": 186,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2023-01-25": 19,
+      "2023-01-25": 20,
       "2022-11-11": 25,
       "2022-10-24": 25
     }
@@ -103,9 +101,9 @@
     "url": "https://fuecs.api.transport.miaguila.com/api/v1/pdf",
     "icon": "https://icons.duckduckgo.com/ip3/fuecs.api.transport.miaguila.com.ico",
     "slug": "fuecs-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.74%",
+    "uptimeDay": "98.73%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
