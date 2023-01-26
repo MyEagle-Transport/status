@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 260,
+    "time": 259,
     "timeDay": 109,
-    "timeWeek": 180,
-    "timeMonth": 294,
-    "timeYear": 260,
+    "timeWeek": 172,
+    "timeMonth": 293,
+    "timeYear": 259,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 95,
+    "time": 235,
+    "timeDay": 90,
     "timeWeek": 97,
-    "timeMonth": 94,
-    "timeYear": 236,
+    "timeMonth": 95,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 235,
-    "timeWeek": 210,
-    "timeMonth": 203,
+    "timeDay": 258,
+    "timeWeek": 217,
+    "timeMonth": 206,
     "timeYear": 231,
     "dailyMinutesDown": {}
   },
@@ -65,9 +65,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 209,
-    "timeDay": 189,
-    "timeWeek": 187,
-    "timeMonth": 191,
+    "timeDay": 214,
+    "timeWeek": 194,
+    "timeMonth": 195,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2023-01-25": 19,
@@ -86,9 +86,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 201,
-    "timeDay": 198,
-    "timeWeek": 191,
-    "timeMonth": 184,
+    "timeDay": 207,
+    "timeWeek": 197,
+    "timeMonth": 188,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2023-01-25": 19,
@@ -103,17 +103,17 @@
     "slug": "fuecs-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 274,
-    "timeDay": 200,
-    "timeWeek": 191,
-    "timeMonth": 181,
-    "timeYear": 274,
+    "time": 273,
+    "timeDay": 204,
+    "timeWeek": 192,
+    "timeMonth": 183,
+    "timeYear": 273,
     "dailyMinutesDown": {
-      "2023-01-25": 43
+      "2023-01-25": 34
     }
   }
 ]
