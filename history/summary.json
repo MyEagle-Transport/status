@@ -40,19 +40,19 @@
     "url": "https://admin.api.transport.miaguila.com/",
     "icon": "https://icons.duckduckgo.com/ip3/admin.api.transport.miaguila.com.ico",
     "slug": "admin-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 204,
-    "timeWeek": 211,
-    "timeMonth": 205,
+    "timeDay": 217,
+    "timeWeek": 214,
+    "timeMonth": 206,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2023-01-26": 0
+      "2023-01-26": 8
     }
   },
   {
