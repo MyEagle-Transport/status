@@ -40,18 +40,20 @@
     "url": "https://admin.api.transport.miaguila.com/",
     "icon": "https://icons.duckduckgo.com/ip3/admin.api.transport.miaguila.com.ico",
     "slug": "admin-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 345,
-    "timeWeek": 241,
-    "timeMonth": 220,
+    "timeDay": 266,
+    "timeWeek": 236,
+    "timeMonth": 219,
     "timeYear": 231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-01": 0
+    }
   },
   {
     "name": "Client Api",
@@ -101,19 +103,19 @@
     "url": "https://fuecs.api.transport.miaguila.com/api/v1/pdf",
     "icon": "https://icons.duckduckgo.com/ip3/fuecs.api.transport.miaguila.com.ico",
     "slug": "fuecs-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 272,
-    "timeDay": 236,
-    "timeWeek": 221,
-    "timeMonth": 193,
+    "timeDay": 234,
+    "timeWeek": 222,
+    "timeMonth": 194,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2023-02-01": 0,
+      "2023-02-01": 8,
       "2023-01-25": 34
     }
   }
