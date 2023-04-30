@@ -1,7 +1,7 @@
 url: https://client.api.transport.miaguila.com/
-status: up
-code: 200
-responseTime: 321
-lastUpdated: 2023-04-30T07:40:07.685Z
+status: down
+code: 503
+responseTime: 236
+lastUpdated: 2023-04-30T10:04:04.571Z
 startTime: Tue Jun 21 2022 22:48:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
