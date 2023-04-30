@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.api.transport.miaguila.com.ico",
     "slug": "admin-api",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "50.38%",
-    "uptimeWeek": "92.91%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.83%",
+    "uptimeDay": "48.17%",
+    "uptimeWeek": "92.60%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "99.83%",
     "time": 230,
     "timeDay": 174,
     "timeWeek": 198,
     "timeMonth": 229,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2023-04-29": 715
+      "2023-04-30": 10,
+      "2023-04-29": 737
     }
   },
   {
@@ -61,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/client.api.transport.miaguila.com.ico",
     "slug": "client-api",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "50.08%",
-    "uptimeWeek": "92.87%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.81%",
+    "uptimeDay": "47.87%",
+    "uptimeWeek": "92.55%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "99.81%",
     "time": 210,
     "timeDay": 216,
     "timeWeek": 228,
     "timeMonth": 222,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-04-29": 719,
+      "2023-04-30": 10,
+      "2023-04-29": 741,
       "2023-01-25": 19,
       "2022-11-30": 70
     }
