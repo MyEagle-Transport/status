@@ -4,19 +4,19 @@
     "url": "https://admin.transport.miaguila.com/",
     "icon": "https://icons.duckduckgo.com/ip3/admin.transport.miaguila.com.ico",
     "slug": "admin-frontend",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "88.65%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.97%",
-    "time": 204,
-    "timeDay": 131,
-    "timeWeek": 117,
-    "timeMonth": 121,
-    "timeYear": 202,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "86.54%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.96%",
+    "time": 205,
+    "timeDay": 286,
+    "timeWeek": 158,
+    "timeMonth": 132,
+    "timeYear": 203,
     "dailyMinutesDown": {
-      "2023-06-24": 163
+      "2023-06-24": 194
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/client.transport.miaguila.com.ico",
     "slug": "client-frontend",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "88.65%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "86.54%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.96%",
     "time": 197,
     "timeDay": 157,
     "timeWeek": 115,
     "timeMonth": 111,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2023-06-24": 163
+      "2023-06-24": 194
     }
   },
   {
@@ -93,17 +93,17 @@
     "slug": "driver-api",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "88.65%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.86%",
+    "uptimeDay": "86.54%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.85%",
     "time": 204,
     "timeDay": 107,
     "timeWeek": 198,
     "timeMonth": 196,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2023-06-24": 163,
+      "2023-06-24": 194,
       "2023-04-30": 445,
       "2023-04-29": 54,
       "2023-01-25": 19,
@@ -118,9 +118,9 @@
     "slug": "fuecs-api",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "88.65%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "86.54%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.96%",
     "time": 249,
     "timeDay": 139,
@@ -128,7 +128,7 @@
     "timeMonth": 259,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2023-06-24": 163,
+      "2023-06-24": 194,
       "2023-01-25": 34
     }
   }
