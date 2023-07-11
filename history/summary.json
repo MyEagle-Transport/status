@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.transport.miaguila.com.ico",
     "slug": "admin-frontend",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
@@ -92,7 +92,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/driver.api.transport.miaguila.com.ico",
     "slug": "driver-api",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.07%",
@@ -117,9 +117,9 @@
     "url": "https://fuecs.api.transport.miaguila.com/api/v1/pdf",
     "icon": "https://icons.duckduckgo.com/ip3/fuecs.api.transport.miaguila.com.ico",
     "slug": "fuecs-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.94%",
@@ -129,6 +129,7 @@
     "timeMonth": 609,
     "timeYear": 277,
     "dailyMinutesDown": {
+      "2023-07-11": 0,
       "2023-06-24": 278,
       "2023-01-25": 34
     }
