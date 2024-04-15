@@ -1,7 +1,7 @@
 url: https://fuecs.api.transport.miaguila.com/api/v1/pdf
-status: up
-code: 200
-responseTime: 80
-lastUpdated: 2024-04-15T14:21:55.170Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-04-15T15:34:07.205Z
 startTime: 2022-06-21T23:23:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
