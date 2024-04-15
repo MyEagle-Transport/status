@@ -119,11 +119,11 @@
     "url": "https://fuecs.api.transport.miaguila.com/api/v1/pdf",
     "icon": "https://icons.duckduckgo.com/ip3/fuecs.api.transport.miaguila.com.ico",
     "slug": "fuecs-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 466,
     "timeDay": 175,
@@ -131,7 +131,7 @@
     "timeMonth": 585,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2024-04-15": 9,
+      "2024-04-15": 0,
       "2023-11-23": 698,
       "2023-06-24": 278
     }
