@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 130,
-    "timeDay": 140,
-    "timeWeek": 127,
+    "timeDay": 123,
+    "timeWeek": 131,
     "timeMonth": 146,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 124,
-    "timeDay": 152,
-    "timeWeek": 104,
-    "timeMonth": 121,
+    "timeDay": 158,
+    "timeWeek": 110,
+    "timeMonth": 122,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2024-05-26": 411
@@ -46,19 +46,17 @@
     "slug": "admin-api",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.89%",
-    "time": 228,
-    "timeDay": 142,
-    "timeWeek": 210,
-    "timeMonth": 207,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.90%",
+    "time": 229,
+    "timeDay": 195,
+    "timeWeek": 218,
+    "timeMonth": 211,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2024-12-13": 8,
-      "2024-05-26": 411,
-      "2023-12-15": 138
+      "2024-05-26": 411
     }
   },
   {
@@ -73,13 +71,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 878,
-    "timeDay": 1115,
-    "timeWeek": 917,
-    "timeMonth": 879,
-    "timeYear": 868,
+    "timeDay": 206,
+    "timeWeek": 788,
+    "timeMonth": 849,
+    "timeYear": 865,
     "dailyMinutesDown": {
-      "2024-05-26": 411,
-      "2023-12-15": 138
+      "2024-05-26": 411
     }
   },
   {
@@ -93,11 +90,11 @@
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 663,
-    "timeDay": 114,
-    "timeWeek": 474,
-    "timeMonth": 586,
-    "timeYear": 666,
+    "time": 661,
+    "timeDay": 145,
+    "timeWeek": 392,
+    "timeMonth": 587,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2024-12-11": 40,
       "2024-05-26": 411
@@ -109,18 +106,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fuecs.api.transport.miaguila.com.ico",
     "slug": "fuecs-api",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 640,
-    "timeDay": 805,
-    "timeWeek": 763,
-    "timeMonth": 892,
+    "time": 641,
+    "timeDay": 1163,
+    "timeWeek": 871,
+    "timeMonth": 894,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2024-12-13": 8,
       "2024-05-26": 411,
       "2024-04-17": 51,
       "2024-04-16": 156
