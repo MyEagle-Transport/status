@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 130,
-    "timeDay": 131,
-    "timeWeek": 123,
-    "timeMonth": 130,
+    "time": 131,
+    "timeDay": 407,
+    "timeWeek": 161,
+    "timeMonth": 141,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2024-05-26": 411
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 124,
-    "timeDay": 150,
-    "timeWeek": 135,
+    "timeDay": 74,
+    "timeWeek": 124,
     "timeMonth": 115,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 229,
-    "timeDay": 160,
-    "timeWeek": 213,
-    "timeMonth": 210,
-    "timeYear": 228,
+    "timeDay": 366,
+    "timeWeek": 248,
+    "timeMonth": 217,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2024-05-26": 411
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 876,
-    "timeDay": 94,
-    "timeWeek": 766,
-    "timeMonth": 784,
-    "timeYear": 868,
+    "time": 878,
+    "timeDay": 1325,
+    "timeWeek": 796,
+    "timeMonth": 790,
+    "timeYear": 869,
     "dailyMinutesDown": {
       "2024-05-26": 411
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 662,
-    "timeDay": 1180,
-    "timeWeek": 641,
-    "timeMonth": 645,
-    "timeYear": 667,
+    "time": 661,
+    "timeDay": 274,
+    "timeWeek": 664,
+    "timeMonth": 621,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2024-12-11": 40,
       "2024-05-26": 411
@@ -112,10 +112,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 643,
-    "timeDay": 1155,
-    "timeWeek": 956,
-    "timeMonth": 892,
-    "timeYear": 643,
+    "timeDay": 1227,
+    "timeWeek": 1082,
+    "timeMonth": 926,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2024-05-26": 411,
       "2024-04-17": 51,
