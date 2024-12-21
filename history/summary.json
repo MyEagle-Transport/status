@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 131,
-    "timeDay": 407,
-    "timeWeek": 161,
-    "timeMonth": 141,
+    "timeDay": 103,
+    "timeWeek": 158,
+    "timeMonth": 139,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2024-05-26": 411
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 124,
-    "timeDay": 74,
-    "timeWeek": 124,
-    "timeMonth": 115,
-    "timeYear": 126,
+    "timeDay": 129,
+    "timeWeek": 120,
+    "timeMonth": 114,
+    "timeYear": 127,
     "dailyMinutesDown": {
       "2024-05-26": 411
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 229,
-    "timeDay": 366,
-    "timeWeek": 248,
-    "timeMonth": 217,
-    "timeYear": 229,
+    "time": 228,
+    "timeDay": 140,
+    "timeWeek": 247,
+    "timeMonth": 212,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2024-05-26": 411
     }
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 878,
-    "timeDay": 1325,
-    "timeWeek": 796,
-    "timeMonth": 790,
-    "timeYear": 869,
+    "timeDay": 1212,
+    "timeWeek": 940,
+    "timeMonth": 819,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2024-05-26": 411
     }
@@ -85,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/driver.api.transport.miaguila.com.ico",
     "slug": "driver-api",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 661,
-    "timeDay": 274,
-    "timeWeek": 664,
-    "timeMonth": 621,
-    "timeYear": 664,
+    "time": 662,
+    "timeDay": 1114,
+    "timeWeek": 802,
+    "timeMonth": 617,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2024-12-11": 40,
       "2024-05-26": 411
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 643,
-    "timeDay": 1227,
-    "timeWeek": 1082,
-    "timeMonth": 926,
-    "timeYear": 646,
+    "time": 641,
+    "timeDay": 188,
+    "timeWeek": 919,
+    "timeMonth": 894,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2024-05-26": 411,
       "2024-04-17": 51,
