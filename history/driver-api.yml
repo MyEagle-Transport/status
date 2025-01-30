@@ -1,7 +1,7 @@
 url: https://driver.api.transport.miaguila.com/
-status: down
-code: 504
-responseTime: 15089
-lastUpdated: 2025-01-30T15:32:40.159Z
+status: up
+code: 200
+responseTime: 1152
+lastUpdated: 2025-01-30T15:49:15.437Z
 startTime: 2022-06-21T22:48:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
